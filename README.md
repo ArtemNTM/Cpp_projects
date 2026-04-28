@@ -1,2 +1,2 @@
-# C-tasks-and-projects
+# Cpp-tasks-and-projects
 Repository for my small C++ projects
